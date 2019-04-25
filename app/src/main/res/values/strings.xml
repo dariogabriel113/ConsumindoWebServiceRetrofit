@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConsumindoWebServiceRetrofit</string>
+    <string name="cep">CEP</string>
+    <string name="busca_cep">Busca Cep</string>
 </resources>
